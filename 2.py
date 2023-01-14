@@ -8,7 +8,6 @@
 
 #So, the output will be a right triangle shape with 5 rows and the number of * on each row is increasing from 1 to 5, like this:
 
-#Copy code
 #*
 #**
 #***
