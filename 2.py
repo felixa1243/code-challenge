@@ -13,4 +13,3 @@
 #***
 #****
 #*****
-#This is a common pattern used to create a triangle shape with asterisks or any other characters.
