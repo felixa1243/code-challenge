@@ -1,9 +1,9 @@
- for i in range(1, 4):
-    for j in range(1, 6):
-        print(j, end=" ")
+for i in range(1,4):
+    for j in range(1,6):
+        print(j,end="")
     print()
-    for k in range(5, 0, -1):
-        print(k, end=" ")
+    for k in range(5,0,-1):
+        print(k,end = "")
     print()
 #output
 #1 2 3 4 5
